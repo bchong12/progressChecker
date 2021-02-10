@@ -6,6 +6,7 @@ const IntroPage = () => {
         <div className="introPage">
             <div className="innerDiv">
                 <div className="logo"></div>
+                <p className="enter">ENTER</p>
             </div>
         </div >
     )
