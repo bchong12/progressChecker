@@ -1,0 +1,5 @@
+goal app
+-hella design oriented
+-really simple functionality
+-if you have a goal, input it
+-have a calendar where you can check it off

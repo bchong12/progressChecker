@@ -1,0 +1,30 @@
+.introPage {
+  background-color: white;
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+  background-color: #60777f;
+}
+
+.innerDiv {
+  background-color: white;
+  height: 200px;
+  width: 300px;
+  border: 1px solid;
+  background-color: #60777f;
+}
+
+@keyframes {
+  0% {
+    background-color: ;
+  }
+}
+
+.logo {
+  background-image: url("https://dewey.tailorbrands.com/production/brand_version_mockup_image/36/4612940036_61cd13f7-b50d-40ec-b68a-e9379b715505.png?cb=1612918357");
+  background-repeat: no-repeat;
+  height: 150px;
+  background-color: #60777f;
+}
